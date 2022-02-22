@@ -2,3 +2,5 @@
 .vs/
 # Ignore lol.txt only text
 log.txt
+# Ignore logsecond.txt
+logsecond.txt

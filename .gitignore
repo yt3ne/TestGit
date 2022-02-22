@@ -2,3 +2,5 @@
 log.txt
 # Ignore logsecond.txt
 logsecond.txt
+# Ignore hidden folder .vs
+.vs/

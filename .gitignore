@@ -1,5 +1,3 @@
-# Ignore hidden folder .vs/
-.vs/
 # Ignore lol.txt only text
 log.txt
 # Ignore logsecond.txt

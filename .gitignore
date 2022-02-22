@@ -1,2 +1,4 @@
-/TestGit/.vs/TestGit/v17
+# Ignore hidden folder .vs/
+.vs/
+# Ignore lol.txt only text
 log.txt

@@ -7,6 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Width="200"
+                Height="200"
+                Content="Click On Me Bitch"
+                FontSize="36"
+                Background="Black"
+                Foreground="White"/>
     </Grid>
 </Window>
